@@ -1,0 +1,57 @@
+<html>
+    <head>
+        
+        <title>RESUME</title>
+    </head>
+    <body>
+    <div id="resume">
+        <img src="C:\Users\bca\Desktop\33bca.PNG" with="100" height="100"
+        <h1>tariro jim</h1>
+        <p>Cell: <a href=#>971-129-5432</a>
+        <p>Web: <a href=#>moriarty.com</a>
+        <p>Email: <a href=#>tariro@gmail.com</a>
+        <p id="objective">I am a reserved but ambitious young professional seeking a career that fits my professional
+            skills, personality, and murderous tendencies. My good birth, excellent education and phenomenal
+            mathematical faculty have allowed me to advance the prospects of several criminal enterprises.
+        <dl>
+            <dt>Education
+            <dd>
+                <h2>parul University</h2>
+                <p><strong>Major:</strong> Applied Mathematics<br />
+                    <strong>Minor:</strong> science
+                </p>
+        </dl>
+     
+        <dl>
+            <dt>Skills
+            <dd>
+                <h2>Office Skills</h2>
+                <h2>communication skills</h2>
+</dd>
+</dt>
+</dl>
+<dt>Experience
+    <dd>
+        <h2>Consulting cyber security<span>mumbai 187 present</span></h2>
+        <ul>
+            <li>Development within the cyber security
+            <li>Conducted negotiations with several companies around mumbai
+        </ul>
+        <h2>Teaching cyber <span> universities</span></h2>
+        <ul>
+            <li>Recruiting, training .
+        </ul>
+        <h2>parul university <span>Professor of Mathematics </span></h2>
+    </dd>
+</dl>
+<dl>
+    <dt>Hobbies
+    <dd>teaching, reading, programming
+</dl>
+<dl>
+    <dt>References
+    <dd>Available on request
+</dl>
+</div>
+</body>
+</html>
